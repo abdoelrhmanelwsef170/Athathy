@@ -73,6 +73,106 @@ namespace Asasy.Controllers.Api
         public async Task<IActionResult> RegisterClient([FromForm] UserAddDTO userAddDTO)
         {
             // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20
+            // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20
+            // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20
+            // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20
+            // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20
+            // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20
+            // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20
+            // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20  // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20
+            // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20
+            // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20  // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20  // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20  // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20  // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20  // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20  // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20  // test 001
+            // Dummy change to trigger SonarCloud analysis
+            // This is a placeholder
+            // Add more lines
+            // ...
+            // Line 20
+
             userAddDTO.lang = _langService.Lang;
 
             string englishPhoneNumber = HelperNumber.ConvertArabicNumberToEnglish(userAddDTO.phone);
